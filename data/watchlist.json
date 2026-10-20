@@ -1,0 +1,53 @@
+{
+  "business": "emis.asia",
+  "market": "Singapore",
+  "currency": "SGD",
+  "last_updated": "2026-10-20",
+  "competitors": [
+    {
+      "name": "Guardian Singapore",
+      "website": "guardian.com.sg",
+      "meta_page_url": "https://www.facebook.com/guardiansingapore",
+      "type": "direct",
+      "notes": "Pharmacy chain, wound care section"
+    },
+    {
+      "name": "Watsons Singapore",
+      "website": "watsons.com.sg",
+      "meta_page_url": "https://www.facebook.com/watsonsingapore",
+      "type": "direct",
+      "notes": "Pharmacy chain, health & wellness"
+    },
+    {
+      "name": "Amazon Singapore",
+      "website": "amazon.sg",
+      "meta_page_url": "https://www.facebook.com/AmazonSG",
+      "type": "adjacent",
+      "notes": "Marketplace, medical supplies category"
+    },
+    {
+      "name": "Shopee Singapore",
+      "website": "shopee.sg",
+      "meta_page_url": "https://www.facebook.com/ShopeeSG",
+      "type": "adjacent",
+      "notes": "Marketplace, emis already sells here"
+    },
+    {
+      "name": "Lazada Singapore",
+      "website": "lazada.sg",
+      "meta_page_url": "https://www.facebook.com/LazadaSingapore",
+      "type": "adjacent",
+      "notes": "Marketplace competitor"
+    }
+  ],
+  "keywords_to_monitor": [
+    "wound care singapore",
+    "stoma supplies singapore",
+    "ostomy bag singapore",
+    "tegaderm",
+    "mepilex",
+    "medical supplies online singapore"
+  ],
+  "meta_ad_library_country": "SG",
+  "google_transparency_region": "SG"
+}
